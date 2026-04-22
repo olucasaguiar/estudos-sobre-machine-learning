@@ -1,0 +1,9 @@
+tensorflow~=2.15.0
+scikit-learn~=1.8.0
+opencv-python
+numpy
+ddgs==9.14.0
+requests
+pillow
+matplotlib
+seaborn
